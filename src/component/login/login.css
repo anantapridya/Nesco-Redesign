@@ -1,0 +1,110 @@
+.loginpage{
+    height: 100vh;
+    width: 100%;
+    padding: 50px;
+    background: url("../Images/bglogin.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.logologin{
+    display: flex;
+    align-items: center;
+    position: absolute;
+}
+.loginpage p{
+    font-family: 'Exo 2';
+    font-style: italic;
+    font-weight: 800;
+    font-size: 39px;
+    line-height: 47px;
+    color: white;
+    margin-left: 25px;
+}
+.loginfield{
+    border: 1px black solid;
+    padding: 50px 90px;
+    width: 725px;
+    background: rgba(16, 13, 40, 0.8);
+    border-radius: 15px;
+}
+.loginbox{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+
+}
+.emaillogo{
+    display: flex;
+    align-items: center;
+}
+.loginfield h5{
+    justify-content: center;
+    font-family: 'Exo 2';
+    font-style: italic;
+    font-weight: 800;
+    font-size: 33.7461px;
+    line-height: 40px;
+    display: flex;
+    text-align: center;
+    color: #E4EDFE;
+    text-shadow: 0px 0px 8.75px #6454F0;
+    margin-bottom: 50px;
+}
+form input{
+    width: 100%;
+    background: rgba(135, 143, 181, 0.2);
+    border: none;
+    height: 45px;
+    margin-bottom: 25px;
+}
+form label{
+    font-family: 'Open Sans',sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 12.9295px;
+    line-height: 18px;
+    color: #E4EDFE;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+.loginfield .login{
+    margin-top: 20px;
+    color: white;
+    text-decoration: none;
+    height: 40px;
+    background: #6454F0;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14.1557px;
+    line-height: 19px;
+}
+.google{
+    color: black!important;
+    background: white!important;
+}
+.loginfield .logininfo{
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14.25px;
+    line-height: 19px;
+    text-align: center;
+    color: #7D809A;
+    margin-bottom: 5px;
+}
+.loginhandling{
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+.logininfo span{
+    color: white;
+}

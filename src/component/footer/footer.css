@@ -1,0 +1,88 @@
+.Footer{
+    height: 360px;
+    background-color: #322A78;
+    display: flex;
+    justify-content: space-between;
+    overflow: hidden;
+    align-items: center;
+    padding: auto 130px;
+    z-index: 5;
+}
+.logofooter{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logofooter p{
+    font-family: 'Exo 2';
+    font-style: italic;
+    font-weight: 800;
+    font-size: 37.2px;
+    line-height: 45px;
+    margin: 0 0 0 24px !important;
+    color: #FFFF;
+}
+.bagian{
+    height: 128px;
+}
+.bagian h5{
+    font-family: 'Exo 2';
+    font-style: italic;
+    font-weight: 800;
+    font-size: 27.3472px;
+    line-height: 33px;
+    color: #E4EDFE;
+}
+.bagian1{
+    margin-left: 130px;
+    width: 302px;
+}
+.bagian3{
+    margin-right: 130px;
+}
+.title h5{
+    font-family: 'Exo 2';
+    font-style: italic;
+    font-weight: 800;
+    font-size: 27.3472px;
+    line-height: 33px;
+}
+.various{
+    margin-top: 27px;
+    display: flex;
+    justify-content: space-between;
+}
+.comp{
+    margin-right: 100px;
+}
+.comp p a{
+    margin-top: 10px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17.6399px;
+    line-height: 24px;
+    color: #878FB5;
+    text-decoration: none;
+}
+.comp p{
+    margin-bottom: 17px;
+}
+.sosmed{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.contact{
+    display: flex;
+    margin: 20px auto;
+}
+.contact p{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17.6399px;
+    line-height: 24px;
+    color: #878FB5;
+    margin: 0 0 0 18px !important;
+}

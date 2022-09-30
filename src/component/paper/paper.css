@@ -1,0 +1,214 @@
+.compehome{
+    display: flex;
+    flex-direction: column;
+    /* height: 80vh; */
+    align-items: center;
+    justify-content: center;
+    background-color: #100D28;
+}
+.compehome h3{
+    margin: 100px auto 30px auto;
+    font-family: 'Exo 2';
+    font-style: italic;
+    font-weight: 800;
+    font-size: 62.249px;
+    line-height: 75px;
+    /* identical to box height */
+
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+
+    background: linear-gradient(180deg, #6454F0 0%, #24E8DE 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    /* text-fill-color: transparent; */
+}
+.compehome p{
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16.5443px;
+    line-height: 23px;
+    text-align: center;
+
+    color: #E4EDFE;
+    margin-bottom: 120px;
+}
+.img img{
+    overflow: hidden;
+    /* width: 100%; */
+}
+.compecontent{
+    width: 100%;
+    padding: 113px 130px 0 130px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #E4EDFE;
+}
+.comperegis{
+    display: flex;
+    flex-direction: column;
+    width: 390px;
+    align-items: center;
+    justify-content: center;
+    padding: 62px 53px;
+    background-color: #100D28;
+    border-radius: 15px;
+}
+.comperegis h5{
+    font-family: 'Exo 2';
+    font-style: italic;
+    font-weight: 800;
+    font-size: 26.9969px;
+    line-height: 32px;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+    color: #E4EDFE;
+    margin-bottom: 50px;
+}
+.info{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.attendee{
+    background-color: aliceblue;
+    padding: 7px;
+    background: rgba(80, 146, 243, 0.3);
+    border-radius: 5px;
+}
+.attendee a{
+    margin-left: 10px;
+    font-family: 'Open Sans',sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10.9021px;
+    line-height: 15px;
+    color: #5092F3 !important;
+}
+.fee{
+    background: rgba(61, 185, 234, 0.3);
+}
+.fee a{
+    color: #3DB9EA !important;
+}
+.guidebook{
+    width: 100%;
+    height: 38px;
+    background: #322A78;
+    border: 1px solid #E4EDFE;
+    border-radius: 6.31971px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 12.6605px;
+    line-height: 17px;
+    color: #E4EDFE;
+    text-decoration: none;
+    margin-top: 13px;
+}
+.enroll{
+    background-color: #6454F0;
+}
+.help{
+    margin-top: 27px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 10.9021px;
+    line-height: 15px;
+    color: #4E41B7;
+    text-decoration: none;
+}
+.reward{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.compecontact{
+    padding: 183px 130px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #E4EDFE;
+}
+.cp{
+    width: 1200px;
+    background-color: #100D28;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 28px 105px 57px;
+    border-radius: 15px;
+}
+.cp h5{
+    font-family: 'Exo 2';
+    font-style: italic;
+    font-weight: 800;
+    font-size: 26.9969px;
+    line-height: 32px;
+    color: #E4EDFE;
+}
+.person{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 55px;
+}
+.p1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.p1 p{
+    font-family: 'Open Sans', sans-serif;
+    font-style: italic;
+    font-weight: 800;
+    font-size: 29.2336px;
+    line-height: 40px;
+    display: flex;
+    align-items: center;
+    text-align: right;
+    background: linear-gradient(90deg, #5092F3 0%, #24E8DE 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    text-fill-color: transparent;
+    margin: 0 90px 0 0;
+}
+.whatsapp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.whatsapp a{
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18.6667px;
+    line-height: 25px;
+    color: #FFFFFF !important;
+    margin-left: 29px;
+}
+.line{
+    display: flex;
+    align-items: center;
+    margin-top: 28px;
+}
+.line a{
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18.6667px;
+    line-height: 25px;
+    color: #FFFFFF !important;
+    margin-left: 29px;
+}
